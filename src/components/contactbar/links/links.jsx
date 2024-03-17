@@ -5,20 +5,8 @@ const Links = () => {
 
     const links = [
         {
-            title: 'Homepage',
-            path: '/',
-        },
-        {
-            title: 'About',
-            path: '/about',
-        },
-        {
-            title: 'Cart',
-            path: '/cart',
-        },
-        {
-            title: 'FAQ',
-            path: '/faq',
+            title: 'Contact',
+            path: '/contact',
         },
     ];
 
